@@ -151,6 +151,8 @@ export default function Contact() {
           </motion.div>
         )}
       </AnimatePresence>
+
+      <span style={{display:'none'}}>{clickCount}</span>
     </div>
   );
 } 

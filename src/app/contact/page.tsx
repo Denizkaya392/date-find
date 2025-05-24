@@ -16,7 +16,7 @@ export default function Contact() {
           >
             <h1 className="text-3xl font-bold text-purple-800 mb-6">Contact Us</h1>
             <p className="text-gray-600 mb-8">
-              Have a great date idea to share? Want to give us feedback? We'd love to hear from you!
+              Have a great date idea to share? Want to give us feedback? We&apos;d love to hear from you!
             </p>
             <form className="space-y-6">
               <div>

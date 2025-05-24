@@ -18,6 +18,7 @@ export function useTranslation() {
   
   const t = (key: string) => {
     const keys = key.split('.');
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
     let value: any = translations[locale];
     
     for (const k of keys) {

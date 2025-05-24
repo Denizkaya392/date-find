@@ -16,8 +16,8 @@ export default function About() {
           >
             <h1 className="text-3xl font-bold text-purple-800 mb-6">About Date-Find</h1>
             <p className="text-gray-600 mb-4">
-              Date-Find is a fun and creative way to discover new date ideas for couples. Whether you're looking for something
-              spontaneous, budget-friendly, or a special occasion, we've got you covered!
+              Date-Find is a fun and creative way to discover new date ideas for couples. Whether you&apos;re looking for something
+              spontaneous, budget-friendly, or a special occasion, we&apos;ve got you covered!
             </p>
             <p className="text-gray-600 mb-4">
               Our mission is to help couples create memorable experiences together without the stress of planning. Simply select
