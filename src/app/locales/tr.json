@@ -1,0 +1,446 @@
+{
+  "common": {
+    "findDate": "Mükemmel randevu fikrinizi bulun!",
+    "selectPreferences": "Tercihlerinizi seçin ve size eğlenceli bir randevu fikri sunalım",
+    "shuffleButton": "Randevu Fikirlerini Karıştır 🎲"
+  },
+  "navigation": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda",
+    "contact": "İletişim"
+  },
+  "about": {
+    "title": "Date-Find Hakkında",
+    "description": "Date-Find, heyecan verici ve benzersiz randevu fikirleri keşfetmek için mükemmel yoldaşınızdır. Romantik bir akşam, maceralı bir çıkış veya yaratıcı bir aktivite arıyor olun, size yardımcı oluyoruz.",
+    "mission": "Misyonumuz",
+    "missionText": "Unutulmaz randevuların pahalı veya karmaşık olması gerekmediğine inanıyoruz. Misyonumuz, bütçeleri veya tercihleri ne olursa olsun, çiftlerin birlikte anlamlı deneyimler yaratmasına yardımcı olmaktır.",
+    "features": "Özellikler",
+    "feature1": "Her durum için çeşitli randevu fikirleri",
+    "feature2": "Tercihlere ve bütçeye göre filtreleme",
+    "feature3": "Kullanımı ve gezinmesi kolay",
+    "feature4": "Yeni fikirlerle düzenli güncellemeler"
+  },
+  "contact": {
+    "title": "Bize Ulaşın",
+    "description": "Bir sorunuz veya öneriniz mi var? Sizden haber almaktan mutluluk duyarız!",
+    "form": {
+      "name": "İsim",
+      "email": "E-posta",
+      "message": "Mesaj",
+      "submit": "Mesaj Gönder",
+      "success": "Mesaj başarıyla gönderildi!",
+      "error": "Bir şeyler yanlış gitti. Lütfen tekrar deneyin."
+    }
+  },
+  "categories": {
+    "indoor": "Kapalı Alan",
+    "outdoor": "Açık Alan",
+    "creative": "Yaratıcı",
+    "quick": "Hızlı",
+    "free": "Ücretsiz",
+    "budget": "Ekonomik",
+    "premium": "Premium"
+  },
+  "dateIdeas": {
+    "1": {
+      "title": "Bahçe Kampı",
+      "description": "Bahçede bir çadır kurun, atıştırmalıklar getirin ve açık gökyüzü altında yıldızları izleyin."
+    },
+    "2": {
+      "title": "Ev Yapımı Pizza Gecesi",
+      "description": "Eğlenceli malzemelerle sıfırdan kendi pizzalarınızı yapın ve rahat bir gece geçirin."
+    },
+    "3": {
+      "title": "Ücretsiz Müze Günü",
+      "description": "Yerel bir müzeyi ücretsiz giriş gününde ziyaret edin ve sanat veya tarihi birlikte keşfedin."
+    },
+    "4": {
+      "title": "Gün Batımı Plaj Yürüyüşü",
+      "description": "Gün batımında plajda romantik bir yürüyüşe çıkın, deniz kabukları toplayın ve manzaranın tadını çıkarın."
+    },
+    "5": {
+      "title": "Sanat Boyama Yarışması",
+      "description": "Bir boyama istasyonu kurun ve bir temaya dayalı sanat eserleri oluşturmak için birbirinizle yarışın."
+    },
+    "6": {
+      "title": "Kutu Oyunu Gecesi",
+      "description": "En sevdiğiniz kutu oyunlarını çıkarın ve atıştırmalıklarla birlikte eğlenceli bir rekabet yaşayın."
+    },
+    "7": {
+      "title": "Sürpriz Piknik",
+      "description": "En sevdiğiniz yiyeceklerle bir piknik sepeti hazırlayın ve yerel bir parkta gizli bir nokta bulun."
+    },
+    "8": {
+      "title": "Sıcak Çikolata Film Maratonu",
+      "description": "Lezzetli sıcak çikolata yapın ve en sevdiğiniz film serisini birlikte izleyin."
+    },
+    "9": {
+      "title": "Şehir Bisiklet Turu",
+      "description": "Bisiklet kiralayın ve şehrin farklı mahallelerini keşfedin."
+    },
+    "10": {
+      "title": "Çiftçi Pazarı Ziyareti",
+      "description": "Mahallenizdeki çiftçi pazarında yerel ürünleri ve el yapımı ürünleri gezin."
+    },
+    "11": {
+      "title": "Kitapçıda Hazine Avı",
+      "description": "Yerel bir kitapçıda bulunacak kitapların listesini oluşturun ve yarışın."
+    },
+    "12": {
+      "title": "Evde Spa Günü",
+      "description": "Mumlar, müzik ve ev yapımı yüz maskeleriyle spa atmosferi yaratın."
+    },
+    "13": {
+      "title": "Köpek Parkı Macerası",
+      "description": "Bir arkadaşınızın köpeğini ödünç alın ve köpek parkında eğlenceli bir gün geçirin."
+    },
+    "14": {
+      "title": "Vintage Fotoğraf Çekimi",
+      "description": "Vintage kıyafetler giyin ve telefon kameralarınızla fotoğraf çekin."
+    },
+    "15": {
+      "title": "Evde Karaoke Gecesi",
+      "description": "Evde bir karaoke istasyonu kurun ve en sevdiğiniz şarkıları birlikte söyleyin."
+    },
+    "16": {
+      "title": "Evde Yemek Kursu",
+      "description": "Online dersler kullanarak birlikte yeni bir mutfak öğrenin ve pişirin."
+    },
+    "17": {
+      "title": "Yıldız İzleme Gecesi",
+      "description": "Şehir ışıklarından uzakta karanlık bir nokta bulun ve takımyıldızlarını birlikte tanımlayın."
+    },
+    "18": {
+      "title": "Kaçış Odası Mücadelesi",
+      "description": "Temalı bir odadan kaçmak için birlikte çalışarak problem çözme becerilerinizi test edin."
+    },
+    "19": {
+      "title": "Gün Doğumu Yürüyüşü",
+      "description": "Erken kalkın ve gün doğumunu izlemek için manzaralı bir noktaya yürüyün."
+    },
+    "20": {
+      "title": "Evde Şarap Tadımı",
+      "description": "Birkaç farklı şarap satın alın ve birlikte şarap tadımı hakkında bilgi edinin."
+    },
+    "21": {
+      "title": "DIY Teraryum Atölyesi",
+      "description": "Sukulentler ve dekoratif elementlerle cam kaplarda minyatür bahçeler oluşturun."
+    },
+    "22": {
+      "title": "Yerel Yemek Turu",
+      "description": "Mahallenizdeki farklı restoranları keşfedin ve her durakta küçük porsiyonlar paylaşın."
+    },
+    "23": {
+      "title": "Kapalı Alan Tırmanışı",
+      "description": "Yerel bir spor salonunda kapalı alan tırmanışı ile kendinizi zorlayın."
+    },
+    "24": {
+      "title": "Gün Batımı Kano Turu",
+      "description": "Kano kiralayın ve gün batımını izlerken sakin sularda kürek çekin."
+    },
+    "25": {
+      "title": "DIY Fotoğraf Kabini",
+      "description": "Aksesuarlarla eğlenceli bir fotoğraf kabini kurun ve komik fotoğraflar çekin."
+    },
+    "26": {
+      "title": "Seramik Yapım Kursu",
+      "description": "Rehberli bir atölyede birlikte güzel seramik parçaları yaratın."
+    },
+    "27": {
+      "title": "Gün Batımı Yelken Turu",
+      "description": "Küçük bir yelkenli kiralayın ve suda romantik bir gün batımının tadını çıkarın."
+    },
+    "28": {
+      "title": "DIY Mum Yapımı",
+      "description": "Farklı renkler ve kokularla birlikte kokulu mumlar yaratın."
+    },
+    "29": {
+      "title": "Botanik Bahçesi Ziyareti",
+      "description": "Yerel bir botanik bahçesinde güzel bitkileri ve çiçekleri keşfedin."
+    },
+    "30": {
+      "title": "Sanal Gerçeklik Oyunu",
+      "description": "Bir oyun merkezinde heyecan verici VR oyunlarını birlikte deneyin."
+    },
+    "31": {
+      "title": "Çiftlik Hayvanları Ziyareti",
+      "description": "Yerel bir çiftliği ziyaret edin ve sevimli hayvanlarla etkileşime geçin."
+    },
+    "32": {
+      "title": "DIY Kokteyl Gecesi",
+      "description": "Taze malzemelerle birlikte şık kokteyller yapmayı öğrenin."
+    },
+    "33": {
+      "title": "Buz Pateni",
+      "description": "Yerel bir buz pistinde eğlenceli bir buz pateni seansının tadını çıkarın."
+    },
+    "34": {
+      "title": "Gün Batımı At Binme",
+      "description": "Gün batımında romantik bir at binme turuna çıkın."
+    },
+    "35": {
+      "title": "DIY Sabun Yapımı",
+      "description": "Farklı renkler ve kokularla kişiselleştirilmiş sabunlar yaratın."
+    },
+    "36": {
+      "title": "Yerel Tiyatro Gösterisi",
+      "description": "Yerel bir tiyatroda bir oyun veya müzikal izleyin."
+    },
+    "37": {
+      "title": "Plaj Voleybolu",
+      "description": "Plajda dostça bir voleybol maçı oynayın."
+    },
+    "38": {
+      "title": "DIY Bitki Atölyesi",
+      "description": "Farklı bitki türlerinin bakımını ve çoğaltılmasını öğrenin."
+    },
+    "39": {
+      "title": "Sıcak Hava Balonu Turu",
+      "description": "Gün doğumunda romantik bir sıcak hava balonu turu deneyimi yaşayın."
+    },
+    "40": {
+      "title": "DIY Takı Yapımı",
+      "description": "Birbiriniz için eşleşen takı parçaları yaratın."
+    },
+    "41": {
+      "title": "Yerel Yemek Festivali",
+      "description": "Yerel bir yemek festivalinde farklı mutfakları keşfedin."
+    },
+    "42": {
+      "title": "DIY Tie-Dye Seansı",
+      "description": "Tişört veya diğer eşyalar üzerinde benzersiz tie-dye tasarımları yaratın."
+    },
+    "43": {
+      "title": "Gün Batımı Yoga Dersi",
+      "description": "Gün batımında birlikte rahatlatıcı bir yoga dersi alın."
+    },
+    "44": {
+      "title": "DIY Çikolata Yapımı",
+      "description": "Farklı lezzetlerle lezzetli çikolatalar yapmayı öğrenin."
+    },
+    "45": {
+      "title": "Yerel Sanat Galerisi Turu",
+      "description": "Yerel sanat galerilerini keşfedin ve favori parçalarınız hakkında sohbet edin."
+    },
+    "46": {
+      "title": "DIY Sushi Yapımı",
+      "description": "Taze malzemelerle birlikte sushi ruloları yapmayı öğrenin."
+    },
+    "47": {
+      "title": "Gün Batımı Fotoğraf Yürüyüşü",
+      "description": "Bir yürüyüşe çıkın ve birlikte güzel gün batımı fotoğrafları çekin."
+    },
+    "48": {
+      "title": "DIY Banyo Bombası Yapımı",
+      "description": "Birlikte renkli ve kokulu banyo bombaları yaratın."
+    },
+    "49": {
+      "title": "Yerel Müzik Festivali",
+      "description": "Yerel bir festivalde canlı müzik ve performansların tadını çıkarın."
+    },
+    "50": {
+      "title": "DIY Pizza Yapma Yarışması",
+      "description": "En iyi pizzayı yaratmak için eğlenceli bir yarışma düzenleyin."
+    },
+    "51": {
+      "title": "Aerial Yoga Dersi",
+      "description": "Tavandan sarkan ipek hamaklar kullanarak benzersiz bir yoga deneyimi yaşayın."
+    },
+    "52": {
+      "title": "DIY Parfüm Yapımı",
+      "description": "Farklı uçucu yağları ve kokuları karıştırarak kendi imza kokunuzu yaratın."
+    },
+    "53": {
+      "title": "Gün Batımı Fayton Turu",
+      "description": "Şehirde gün batımında romantik bir fayton turuna çıkın."
+    },
+    "54": {
+      "title": "DIY Kitap Ciltleme",
+      "description": "Kitap ciltleme sanatını öğrenin ve birlikte özel bir günlük oluşturun."
+    },
+    "55": {
+      "title": "Yerel Bira Tadımı",
+      "description": "Yerel bir bira fabrikasını ziyaret edin ve farklı el yapımı biraları deneyin."
+    },
+    "56": {
+      "title": "DIY Mozaik Sanatı",
+      "description": "Fayans ve cam parçaları kullanarak güzel mozaik sanat eserleri yaratın."
+    },
+    "57": {
+      "title": "Gün Batımı Sörf Tahtası",
+      "description": "Gün batımını izlerken sakin sularda sörf tahtası deneyin."
+    },
+    "58": {
+      "title": "DIY Deri İşleme",
+      "description": "Anahtarlık veya bileklik gibi deri aksesuarlar yapmayı öğrenin."
+    },
+    "59": {
+      "title": "Yerel Komedi Gecesi",
+      "description": "Yerel bir komedi kulübünde kahkaha dolu bir gece geçirin."
+    },
+    "60": {
+      "title": "DIY Makrome Atölyesi",
+      "description": "Güzel makrome duvar süsleri veya bitki askıları yapmayı öğrenin."
+    },
+    "61": {
+      "title": "Gün Batımı Helikopter Turu",
+      "description": "Nefes kesici manzaralar için gün batımında helikopter turuna çıkın."
+    },
+    "62": {
+      "title": "DIY Doğal Cilt Bakımı",
+      "description": "Doğal malzemeler kullanarak ev yapımı cilt bakım ürünleri oluşturun."
+    },
+    "63": {
+      "title": "Yerel Yemek Kamyonu Turu",
+      "description": "Farklı yemek kamyonlarını keşfedin ve çeşitli yemekleri paylaşın."
+    },
+    "64": {
+      "title": "DIY Marangozluk",
+      "description": "Temel marangozluk becerilerini öğrenin ve birlikte küçük bir proje yapın."
+    },
+    "65": {
+      "title": "Gün Batımı Jakuzi",
+      "description": "Gün batımı manzarasını izlerken jakuzide rahatlayın."
+    },
+    "66": {
+      "title": "DIY Kaligrafi Dersi",
+      "description": "Birlikte güzel el yazısı sanatını öğrenin."
+    },
+    "67": {
+      "title": "Yerel Caz Gecesi",
+      "description": "Yerel bir mekanda canlı caz müziğinin keyfini çıkarın."
+    },
+    "68": {
+      "title": "DIY Seramik Boyama",
+      "description": "Hazır seramik parçaları kendi tasarımlarınızla boyayın."
+    },
+    "69": {
+      "title": "Gün Batımı Segway Turu",
+      "description": "Gün batımında şehri segway ile keşfedin."
+    },
+    "70": {
+      "title": "DIY Uçucu Yağ Yapımı",
+      "description": "Bitkilerden uçucu yağ çıkarmayı ve karıştırmayı öğrenin."
+    },
+    "71": {
+      "title": "Yerel Dans Dersi",
+      "description": "Salsa veya salon dansı gibi bir dans dersi alın."
+    },
+    "72": {
+      "title": "DIY Cam Üfleme",
+      "description": "Cam üfleme sanatını öğrenin ve benzersiz parçalar yaratın."
+    },
+    "73": {
+      "title": "Gün Batımı Katamaran Turu",
+      "description": "Gün batımında romantik bir katamaran turuna çıkın."
+    },
+    "74": {
+      "title": "DIY Doğal Boyama",
+      "description": "Doğal malzemeler ve bitkiler kullanarak kumaş boyamayı öğrenin."
+    },
+    "75": {
+      "title": "Yerel Şiir Okuma",
+      "description": "Yerel bir kafede şiir okuma etkinliğine katılın."
+    },
+    "76": {
+      "title": "DIY Kağıt Yapımı",
+      "description": "Farklı dokular ve renklerle el yapımı kağıt yapmayı öğrenin."
+    },
+    "77": {
+      "title": "Gün Batımı Yamaç Paraşütü",
+      "description": "Gün batımında yamaç paraşütünün heyecanını yaşayın."
+    },
+    "78": {
+      "title": "DIY Doğal Sabun Yapımı",
+      "description": "Doğal malzemeler ve uçucu yağlar kullanarak el yapımı sabunlar oluşturun."
+    },
+    "79": {
+      "title": "Yerel Opera Gecesi",
+      "description": "Şık giyinip operada bir akşam geçirin."
+    },
+    "80": {
+      "title": "DIY Mum Yapım Atölyesi",
+      "description": "İleri mum yapım tekniklerini öğrenin ve benzersiz tasarımlar yaratın."
+    },
+    "81": {
+      "title": "Gün Batımı Zip Line",
+      "description": "Gün batımında zip line ile adrenalin dolu bir deneyim yaşayın."
+    },
+    "82": {
+      "title": "DIY Doğal Parfüm Yapımı",
+      "description": "Doğal uçucu yağlar ve alkol kullanarak özel parfümler yaratın."
+    },
+    "83": {
+      "title": "Yerel Bale Gösterisi",
+      "description": "Yerel bir tiyatroda güzel bir bale gösterisinin keyfini çıkarın."
+    },
+    "84": {
+      "title": "DIY Doğal Kozmetik",
+      "description": "Doğal makyaj ve cilt bakım ürünleri yapmayı öğrenin."
+    },
+    "85": {
+      "title": "Gün Batımı Balon Turu",
+      "description": "Gün batımında romantik bir balon turuna çıkın."
+    },
+    "86": {
+      "title": "DIY Doğal Boya Atölyesi",
+      "description": "Bitkilerden doğal boyalar oluşturmayı ve kumaş boyamayı öğrenin."
+    },
+    "87": {
+      "title": "Yerel Senfoni Orkestrası",
+      "description": "Yerel bir orkestranın klasik müzik performansını dinleyin."
+    },
+    "88": {
+      "title": "DIY Doğal Mum Yapımı",
+      "description": "Doğal balmumları ve uçucu yağlar kullanarak mumlar yaratın."
+    },
+    "89": {
+      "title": "Gün Batımı Kaya Tırmanışı",
+      "description": "Gün batımında açık havada kaya tırmanışı deneyin."
+    },
+    "90": {
+      "title": "DIY Doğal Cilt Bakım Atölyesi",
+      "description": "Doğal yüz maskeleri ve peelingler yapmayı öğrenin."
+    },
+    "91": {
+      "title": "Yerel Sanat Sergisi",
+      "description": "Yerel bir sanat galerisini ziyaret edin ve favori parçalarınızı tartışın."
+    },
+    "92": {
+      "title": "DIY Doğal Sabun Atölyesi",
+      "description": "Farklı malzemelerle doğal sabunlar yapmayı öğrenin."
+    },
+    "93": {
+      "title": "Gün Batımı Dağ Bisikleti",
+      "description": "Gün batımında dağ bisikleti macerası yaşayın."
+    },
+    "94": {
+      "title": "DIY Doğal Parfüm Atölyesi",
+      "description": "Doğal malzemeler kullanarak özel parfümler yaratın."
+    },
+    "95": {
+      "title": "Yerel Film Festivali",
+      "description": "Yerel bir film festivaline katılın ve bağımsız filmler izleyin."
+    },
+    "96": {
+      "title": "DIY Doğal Kozmetik Atölyesi",
+      "description": "Doğal makyaj ve cilt bakım ürünleri yapmayı öğrenin."
+    },
+    "97": {
+      "title": "Gün Batımı Sörf",
+      "description": "Benzersiz bir deneyim için gün batımında sörf yapın."
+    },
+    "98": {
+      "title": "DIY Doğal Boya Atölyesi",
+      "description": "Doğal boyalar oluşturmayı ve kumaş boyamayı öğrenin."
+    },
+    "99": {
+      "title": "Yerel Müzik Festivali",
+      "description": "Yerel bir festivalde canlı müzik ve performansların keyfini çıkarın."
+    },
+    "100": {
+      "title": "DIY Doğal Mum Atölyesi",
+      "description": "Doğal malzemeler kullanarak benzersiz mumlar yaratın."
+    }
+  }
+} 

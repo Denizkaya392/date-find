@@ -1,0 +1,446 @@
+{
+  "common": {
+    "findDate": "Find your next perfect date idea!",
+    "selectPreferences": "Select your preferences and let us surprise you with a fun date idea",
+    "shuffleButton": "Shuffle Date Ideas 🎲"
+  },
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "about": {
+    "title": "About Date-Find",
+    "description": "Date-Find is your perfect companion for discovering exciting and unique date ideas. Whether you're looking for a romantic evening, an adventurous outing, or a creative activity, we've got you covered.",
+    "mission": "Our Mission",
+    "missionText": "We believe that memorable dates don't have to be expensive or complicated. Our mission is to help couples create meaningful experiences together, regardless of their budget or preferences.",
+    "features": "Features",
+    "feature1": "Diverse date ideas for every occasion",
+    "feature2": "Filter by preferences and budget",
+    "feature3": "Easy to use and navigate",
+    "feature4": "Regular updates with new ideas"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "description": "Have a question or suggestion? We'd love to hear from you!",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send Message",
+      "success": "Message sent successfully!",
+      "error": "Something went wrong. Please try again."
+    }
+  },
+  "categories": {
+    "indoor": "Indoor",
+    "outdoor": "Outdoor",
+    "creative": "Creative",
+    "quick": "Quick",
+    "free": "Free",
+    "budget": "Budget",
+    "premium": "Premium"
+  },
+  "dateIdeas": {
+    "1": {
+      "title": "Backyard Camping",
+      "description": "Set up a tent in the backyard, bring snacks, and stargaze under the open sky."
+    },
+    "2": {
+      "title": "DIY Pizza Night",
+      "description": "Make your own pizzas from scratch with fun toppings and enjoy a cozy night in."
+    },
+    "3": {
+      "title": "Free Museum Day",
+      "description": "Visit a local museum on their free admission day and explore art or history together."
+    },
+    "4": {
+      "title": "Sunset Beach Walk",
+      "description": "Take a romantic stroll along the beach during sunset, collecting seashells and enjoying the view."
+    },
+    "5": {
+      "title": "Art Painting Challenge",
+      "description": "Set up a painting station and challenge each other to create art based on a theme."
+    },
+    "6": {
+      "title": "Board Game Night",
+      "description": "Break out your favorite board games and enjoy some friendly competition with snacks."
+    },
+    "7": {
+      "title": "Surprise Picnic",
+      "description": "Pack a picnic basket with favorite foods and find a hidden spot in a local park."
+    },
+    "8": {
+      "title": "Hot Chocolate Movie Marathon",
+      "description": "Make delicious hot chocolate and watch your favorite movie series together."
+    },
+    "9": {
+      "title": "City Bike Ride",
+      "description": "Rent bikes and explore different neighborhoods in your city."
+    },
+    "10": {
+      "title": "Farmer's Market Visit",
+      "description": "Browse local produce and artisanal goods at your neighborhood farmer's market."
+    },
+    "11": {
+      "title": "Bookstore Scavenger Hunt",
+      "description": "Create a list of books to find in a local bookstore and race to complete the challenge."
+    },
+    "12": {
+      "title": "Home Spa Day",
+      "description": "Create a spa atmosphere with candles, music, and DIY face masks."
+    },
+    "13": {
+      "title": "Dog Park Adventure",
+      "description": "Borrow a friend's dog and enjoy a fun day at the dog park."
+    },
+    "14": {
+      "title": "Vintage Photo Shoot",
+      "description": "Dress up in vintage clothes and take photos using your phone cameras."
+    },
+    "15": {
+      "title": "Home Karaoke Night",
+      "description": "Set up a karaoke station at home and sing your favorite songs together."
+    },
+    "16": {
+      "title": "Cooking Class at Home",
+      "description": "Choose a new cuisine to learn and cook together using online tutorials."
+    },
+    "17": {
+      "title": "Stargazing Night",
+      "description": "Find a dark spot away from city lights and identify constellations together."
+    },
+    "18": {
+      "title": "Escape Room Challenge",
+      "description": "Test your problem-solving skills by working together to escape a themed room."
+    },
+    "19": {
+      "title": "Sunrise Hike",
+      "description": "Wake up early and hike to a scenic viewpoint to watch the sunrise together."
+    },
+    "20": {
+      "title": "Wine Tasting at Home",
+      "description": "Purchase a few different wines and learn about wine tasting together."
+    },
+    "21": {
+      "title": "DIY Terrarium Workshop",
+      "description": "Create miniature gardens in glass containers with succulents and decorative elements."
+    },
+    "22": {
+      "title": "Local Food Tour",
+      "description": "Explore different restaurants in your neighborhood, sharing small plates at each stop."
+    },
+    "23": {
+      "title": "Indoor Rock Climbing",
+      "description": "Challenge yourselves with indoor rock climbing at a local gym."
+    },
+    "24": {
+      "title": "Sunset Kayaking",
+      "description": "Rent kayaks and paddle through calm waters while watching the sunset."
+    },
+    "25": {
+      "title": "DIY Photo Booth",
+      "description": "Set up a fun photo booth with props and take silly pictures together."
+    },
+    "26": {
+      "title": "Pottery Making Class",
+      "description": "Learn to create beautiful pottery pieces together in a guided workshop."
+    },
+    "27": {
+      "title": "Sunset Sailing",
+      "description": "Rent a small sailboat and enjoy a romantic sunset on the water."
+    },
+    "28": {
+      "title": "DIY Candle Making",
+      "description": "Create scented candles together with different colors and fragrances."
+    },
+    "29": {
+      "title": "Botanical Garden Visit",
+      "description": "Explore beautiful plants and flowers in a local botanical garden."
+    },
+    "30": {
+      "title": "Virtual Reality Gaming",
+      "description": "Try out exciting VR games together at a gaming center."
+    },
+    "31": {
+      "title": "Farm Animal Visit",
+      "description": "Visit a local farm and interact with friendly animals."
+    },
+    "32": {
+      "title": "DIY Cocktail Night",
+      "description": "Learn to make fancy cocktails together with fresh ingredients."
+    },
+    "33": {
+      "title": "Ice Skating",
+      "description": "Enjoy a fun ice skating session at a local rink."
+    },
+    "34": {
+      "title": "Sunset Horseback Riding",
+      "description": "Take a romantic horseback ride during sunset."
+    },
+    "35": {
+      "title": "DIY Soap Making",
+      "description": "Create personalized soaps with different colors and scents."
+    },
+    "36": {
+      "title": "Local Theater Show",
+      "description": "Watch a play or musical at a local theater."
+    },
+    "37": {
+      "title": "Beach Volleyball",
+      "description": "Play a friendly game of beach volleyball."
+    },
+    "38": {
+      "title": "DIY Plant Workshop",
+      "description": "Learn to care for and propagate different types of plants."
+    },
+    "39": {
+      "title": "Hot Air Balloon Ride",
+      "description": "Experience a romantic hot air balloon ride at sunrise."
+    },
+    "40": {
+      "title": "DIY Jewelry Making",
+      "description": "Create matching jewelry pieces for each other."
+    },
+    "41": {
+      "title": "Local Food Festival",
+      "description": "Explore different cuisines at a local food festival."
+    },
+    "42": {
+      "title": "DIY Tie-Dye Session",
+      "description": "Create unique tie-dye designs on t-shirts or other items."
+    },
+    "43": {
+      "title": "Sunset Yoga Class",
+      "description": "Take a relaxing yoga class together during sunset."
+    },
+    "44": {
+      "title": "DIY Chocolate Making",
+      "description": "Learn to make delicious chocolates with different flavors."
+    },
+    "45": {
+      "title": "Local Art Gallery Tour",
+      "description": "Explore local art galleries and discuss your favorite pieces."
+    },
+    "46": {
+      "title": "DIY Sushi Making",
+      "description": "Learn to make sushi rolls together with fresh ingredients."
+    },
+    "47": {
+      "title": "Sunset Photography Walk",
+      "description": "Take a walk and capture beautiful sunset photos together."
+    },
+    "48": {
+      "title": "DIY Bath Bomb Making",
+      "description": "Create colorful and fragrant bath bombs together."
+    },
+    "49": {
+      "title": "Local Music Festival",
+      "description": "Enjoy live music and performances at a local festival."
+    },
+    "50": {
+      "title": "DIY Pizza Making Competition",
+      "description": "Have a fun competition to create the best pizza."
+    },
+    "51": {
+      "title": "Aerial Yoga Class",
+      "description": "Try a unique yoga experience using silk hammocks suspended from the ceiling."
+    },
+    "52": {
+      "title": "DIY Perfume Making",
+      "description": "Create your own signature scents by blending different essential oils and fragrances."
+    },
+    "53": {
+      "title": "Sunset Horse Carriage Ride",
+      "description": "Enjoy a romantic carriage ride through the city during sunset."
+    },
+    "54": {
+      "title": "DIY Book Binding",
+      "description": "Learn the art of book binding and create a custom journal together."
+    },
+    "55": {
+      "title": "Local Beer Tasting",
+      "description": "Visit a local brewery and sample different craft beers."
+    },
+    "56": {
+      "title": "DIY Mosaic Art",
+      "description": "Create beautiful mosaic artwork using tiles and glass pieces."
+    },
+    "57": {
+      "title": "Sunset Paddleboarding",
+      "description": "Try paddleboarding on calm waters while watching the sunset."
+    },
+    "58": {
+      "title": "DIY Leather Crafting",
+      "description": "Learn to make leather accessories like keychains or bracelets."
+    },
+    "59": {
+      "title": "Local Comedy Night",
+      "description": "Enjoy a night of laughter at a local comedy club."
+    },
+    "60": {
+      "title": "DIY Macrame Workshop",
+      "description": "Learn to create beautiful macrame wall hangings or plant hangers."
+    },
+    "61": {
+      "title": "Sunset Helicopter Tour",
+      "description": "Take a scenic helicopter ride during sunset for breathtaking views."
+    },
+    "62": {
+      "title": "DIY Natural Skincare",
+      "description": "Create homemade skincare products using natural ingredients."
+    },
+    "63": {
+      "title": "Local Food Truck Tour",
+      "description": "Explore different food trucks and share various dishes."
+    },
+    "64": {
+      "title": "DIY Woodworking",
+      "description": "Learn basic woodworking skills and create a small project together."
+    },
+    "65": {
+      "title": "Sunset Hot Tub",
+      "description": "Relax in a hot tub while enjoying the sunset view."
+    },
+    "66": {
+      "title": "DIY Calligraphy Class",
+      "description": "Learn the art of beautiful handwriting together."
+    },
+    "67": {
+      "title": "Local Jazz Night",
+      "description": "Enjoy live jazz music at a local venue."
+    },
+    "68": {
+      "title": "DIY Pottery Painting",
+      "description": "Paint pre-made pottery pieces with your own designs."
+    },
+    "69": {
+      "title": "Sunset Segway Tour",
+      "description": "Explore the city on segways during sunset."
+    },
+    "70": {
+      "title": "DIY Essential Oil Making",
+      "description": "Learn to extract and blend essential oils from plants."
+    },
+    "71": {
+      "title": "Local Dance Class",
+      "description": "Take a dance class together, like salsa or ballroom."
+    },
+    "72": {
+      "title": "DIY Glass Blowing",
+      "description": "Learn the art of glass blowing and create unique pieces."
+    },
+    "73": {
+      "title": "Sunset Catamaran Cruise",
+      "description": "Enjoy a romantic cruise on a catamaran during sunset."
+    },
+    "74": {
+      "title": "DIY Natural Dyeing",
+      "description": "Learn to dye fabrics using natural materials and plants."
+    },
+    "75": {
+      "title": "Local Poetry Reading",
+      "description": "Attend a poetry reading event at a local café."
+    },
+    "76": {
+      "title": "DIY Paper Making",
+      "description": "Learn to make handmade paper with different textures and colors."
+    },
+    "77": {
+      "title": "Sunset Paragliding",
+      "description": "Experience the thrill of paragliding during sunset."
+    },
+    "78": {
+      "title": "DIY Natural Soap Making",
+      "description": "Create handmade soaps using natural ingredients and essential oils."
+    },
+    "79": {
+      "title": "Local Opera Night",
+      "description": "Dress up and enjoy an evening at the opera."
+    },
+    "80": {
+      "title": "DIY Candle Making Workshop",
+      "description": "Learn advanced candle making techniques and create unique designs."
+    },
+    "81": {
+      "title": "Sunset Zip Lining",
+      "description": "Experience an adrenaline rush while zip lining during sunset."
+    },
+    "82": {
+      "title": "DIY Natural Perfume Making",
+      "description": "Create custom perfumes using natural essential oils and alcohol."
+    },
+    "83": {
+      "title": "Local Ballet Performance",
+      "description": "Enjoy a beautiful ballet performance at a local theater."
+    },
+    "84": {
+      "title": "DIY Natural Cosmetics",
+      "description": "Learn to make natural makeup and skincare products."
+    },
+    "85": {
+      "title": "Sunset Hot Air Balloon Ride",
+      "description": "Experience a romantic hot air balloon ride during sunset."
+    },
+    "86": {
+      "title": "DIY Natural Dye Workshop",
+      "description": "Learn to create natural dyes from plants and dye fabrics."
+    },
+    "87": {
+      "title": "Local Symphony Orchestra",
+      "description": "Enjoy a classical music performance by a local orchestra."
+    },
+    "88": {
+      "title": "DIY Natural Candle Making",
+      "description": "Create candles using natural waxes and essential oils."
+    },
+    "89": {
+      "title": "Sunset Rock Climbing",
+      "description": "Try outdoor rock climbing during sunset."
+    },
+    "90": {
+      "title": "DIY Natural Skincare Workshop",
+      "description": "Learn to make natural face masks and scrubs."
+    },
+    "91": {
+      "title": "Local Art Exhibition",
+      "description": "Visit a local art gallery and discuss your favorite pieces."
+    },
+    "92": {
+      "title": "DIY Natural Soap Workshop",
+      "description": "Learn to make natural soaps with different ingredients."
+    },
+    "93": {
+      "title": "Sunset Mountain Biking",
+      "description": "Enjoy a mountain biking adventure during sunset."
+    },
+    "94": {
+      "title": "DIY Natural Perfume Workshop",
+      "description": "Create custom perfumes using natural ingredients."
+    },
+    "95": {
+      "title": "Local Film Festival",
+      "description": "Attend a local film festival and watch independent movies."
+    },
+    "96": {
+      "title": "DIY Natural Cosmetics Workshop",
+      "description": "Learn to make natural makeup and skincare products."
+    },
+    "97": {
+      "title": "Sunset Surfing",
+      "description": "Try surfing during sunset for a unique experience."
+    },
+    "98": {
+      "title": "DIY Natural Dye Workshop",
+      "description": "Learn to create natural dyes and dye fabrics."
+    },
+    "99": {
+      "title": "Local Music Festival",
+      "description": "Enjoy live music and performances at a local festival."
+    },
+    "100": {
+      "title": "DIY Natural Candle Workshop",
+      "description": "Create unique candles using natural materials."
+    }
+  }
+} 
