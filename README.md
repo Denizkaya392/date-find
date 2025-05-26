@@ -41,7 +41,7 @@ npm run dev
 
 ## Deployment
 
-This project is deployed on Vercel. Visit [https://date-find.vercel.app/tr](https://date-find-denizkaya392.vercel.app) to see it in action.
+This project is deployed on Vercel. Visit [https://date-find.vercel.app/tr](https://date-find.vercel.app/tr) to see it in action.
 
 ## Contributing
 
