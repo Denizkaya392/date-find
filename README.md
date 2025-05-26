@@ -10,7 +10,6 @@ Date-Find is a modern web application that helps couples discover exciting and u
 - 💰 Cost level filtering
 - 📱 Responsive design
 - 🎨 Beautiful UI with animations
-- 🥚 Fun Easter eggs
 
 ## Tech Stack
 
